@@ -1,0 +1,3 @@
+Enter the base: 2
+Enter the exponent: 5
+2.0 raised to the power 5.0 is: 32.0
